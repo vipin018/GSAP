@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #222;
+    color: #fff;
+    font-family: Nunito;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
